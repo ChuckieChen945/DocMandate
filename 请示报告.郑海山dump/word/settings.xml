@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:o="urn:schemas-microsoft-com:office:office"
-    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
-    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
-    xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word"
-    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
-    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
-    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-    xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
-    xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
-    xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
-    xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du"
-    xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
-    xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock"
-    xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
-    xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main"
-    mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du">
+<w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du">
     <w:zoom w:percent="100" />
     <w:mirrorMargins />
     <w:bordersDoNotSurroundHeader />
     <w:bordersDoNotSurroundFooter />
     <w:attachedTemplate r:id="rId1" />
-    <w:stylePaneFormatFilter w:val="5724" w:allStyles="0" w:customStyles="0" w:latentStyles="1"
-        w:stylesInUse="0" w:headingStyles="1" w:numberingStyles="0" w:tableStyles="0"
-        w:directFormattingOnRuns="1" w:directFormattingOnParagraphs="1"
-        w:directFormattingOnNumbering="1" w:directFormattingOnTables="0" w:clearFormatting="1"
-        w:top3HeadingStyles="0" w:visibleStyles="1" w:alternateStyleNames="0" />
+    <w:stylePaneFormatFilter w:val="5724" w:allStyles="0" w:customStyles="0" w:latentStyles="1" w:stylesInUse="0" w:headingStyles="1" w:numberingStyles="0" w:tableStyles="0" w:directFormattingOnRuns="1" w:directFormattingOnParagraphs="1" w:directFormattingOnNumbering="1" w:directFormattingOnTables="0" w:clearFormatting="1" w:top3HeadingStyles="0" w:visibleStyles="1" w:alternateStyleNames="0" />
     <w:styleLockTheme />
     <w:styleLockQFSet />
     <w:defaultTabStop w:val="420" />
@@ -50,27 +30,21 @@
         <w:doNotExpandShiftReturn />
         <w:adjustLineHeightInTable />
         <w:useFELayout />
-        <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word"
-            w:val="15" />
-        <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification"
-            w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
-        <w:compatSetting w:name="enableOpenTypeFeatures"
-            w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
-        <w:compatSetting w:name="doNotFlipMirrorIndents"
-            w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
-        <w:compatSetting w:name="differentiateMultirowTableHeaders"
-            w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
-        <w:compatSetting w:name="useWord2013TrackBottomHyphenation"
-            w:uri="http://schemas.microsoft.com/office/word" w:val="0" />
+        <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="15" />
+        <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="enableOpenTypeFeatures" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="doNotFlipMirrorIndents" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="differentiateMultirowTableHeaders" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="useWord2013TrackBottomHyphenation" w:uri="http://schemas.microsoft.com/office/word" w:val="0" />
     </w:compat>
     <w:rsids>
-        <w:rsidRoot w:val="00224BB6" />
+        <w:rsidRoot w:val="001D408D" />
+        <w:rsid w:val="001D408D" />
         <w:rsid w:val="001E2D32" />
-        <w:rsid w:val="00224BB6" />
+        <w:rsid w:val="002A238A" />
         <w:rsid w:val="00390DE9" />
         <w:rsid w:val="004E6E62" />
-        <w:rsid w:val="00AA3C3F" />
-        <w:rsid w:val="00BB11DA" />
+        <w:rsid w:val="00634A1C" />
         <w:rsid w:val="00C0297D" />
         <w:rsid w:val="00DC68F7" />
     </w:rsids>
@@ -88,9 +62,7 @@
         <m:naryLim m:val="undOvr" />
     </m:mathPr>
     <w:themeFontLang w:val="en-US" w:eastAsia="zh-CN" />
-    <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1"
-        w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5"
-        w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink" />
+    <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink" />
     <w:doNotIncludeSubdocsInStats />
     <w:shapeDefaults>
         <o:shapedefaults v:ext="edit" spidmax="1026" />
@@ -100,7 +72,7 @@
     </w:shapeDefaults>
     <w:decimalSymbol w:val="." />
     <w:listSeparator w:val="," />
-    <w14:docId w14:val="0508CAA5" />
+    <w14:docId w14:val="1C4199A8" />
     <w15:chartTrackingRefBased />
-    <w15:docId w15:val="{BF058E98-FA8B-4EC1-B5DE-AEC3C9EE27CB}" />
+    <w15:docId w15:val="{D894B8D4-A640-45F5-9115-072A615AB5F2}" />
 </w:settings>
